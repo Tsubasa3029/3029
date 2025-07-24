@@ -1,0 +1,6 @@
+{
+  "name": "家計簿",
+  "description": "収入と支出を管理し、円グラフで内訳を可視化する家計簿アプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

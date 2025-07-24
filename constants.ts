@@ -1,0 +1,3 @@
+
+export const INCOME_COLORS = ['#34D399', '#6EE7B7', '#A7F3D0', '#10B981', '#059669', '#047857'];
+export const EXPENSE_COLORS = ['#F87171', '#FBBF24', '#FB923C', '#F472B6', '#EC4899', '#D946EF', '#A855F7', '#8B5CF6', '#6366F1'];
